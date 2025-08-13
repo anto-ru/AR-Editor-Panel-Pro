@@ -20,11 +20,11 @@
 
 # Descrizione:
 
-SafePublish Pro crea un ruolo personalizzato **Editor-Panel** per consentire la gestione limitata di Post e Prodotti WooCommerce. <br>
+`AR Editor Panel Pro` crea un ruolo personalizzato **Editor-Panel** per consentire la gestione limitata di Post e Prodotti WooCommerce. <br>
 Gli utenti con questo ruolo possono creare e modificare contenuti solo in modalità bozza o in attesa di revisione, senza la possibilità di pubblicare direttamente. <br>
 Il plugin implementa un workflow sicuro e controllato, mostrando solo i menu essenziali all’interno dell’area admin.
 
----
+
 
 <br><br>
 
@@ -62,11 +62,11 @@ Per supporto o contributi contatta direttamente Antonio Russo.
 - Aggiunto indirizzamento diretto al menu dei Post (Articoli).
 
 `1.3`
-- Aggiunta rimozione del menu Dashboard.
+- Rimozione della Dashboard amministratore.
 
 `1.2`
 - Aggiunta gestione whitelist del menu per il ruolo personalizzato.  
-- Aggiunta rimozione del menu Profilo e relativo link nella barra admin.  
+- Disabilitati i link al menu Profilo e relativo link nella barra admin.
 - Funzione per impostare lo stato “pending” su post e prodotti.  
 
 `1.1`
